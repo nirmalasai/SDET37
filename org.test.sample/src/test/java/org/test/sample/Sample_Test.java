@@ -8,5 +8,6 @@ public class Sample_Test {
   public void first() {
 	  
 	  Reporter.log("Welcome to TestNG",true);
+	  System.out.println("changes made");
   }
 }
