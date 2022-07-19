@@ -9,5 +9,7 @@ public class Sample_Test {
 	  
 	  Reporter.log("Welcome to TestNG",true);
 	  System.out.println("changes made");
+	  System.out.println("change done");
+	  
   }
 }
