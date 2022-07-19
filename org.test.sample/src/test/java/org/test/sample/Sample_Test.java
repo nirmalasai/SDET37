@@ -11,6 +11,7 @@ public class Sample_Test {
 	  System.out.println("changes made");
 	  System.out.println("change done");
 	  //added
+	  //making chages as master
 	  
 	  //adding pull request
   }
