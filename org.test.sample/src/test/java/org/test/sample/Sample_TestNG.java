@@ -9,6 +9,6 @@ public class Sample_TestNG {
 	public void sample()
 	{
 		Reporter.log("hello",true);
-
+		//trying to change
 }
 }
