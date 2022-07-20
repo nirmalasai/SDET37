@@ -12,6 +12,7 @@ public class Sample_cmdargsTest {
 		
 		System.out.println("URL is="+URL);
 		System.out.println("BROWSER is="+BROWSER);
+		System.out.println("URL is="+URL);
 		//add to repo
 	}
 
