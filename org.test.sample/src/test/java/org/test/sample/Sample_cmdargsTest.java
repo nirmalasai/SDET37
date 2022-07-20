@@ -6,8 +6,9 @@ public class Sample_cmdargsTest {
 	@Test
 	public void cmdargs() {
 		
-		String URL=System.getProperty("url");
+		
 		String BROWSER=System.getProperty("browser");
+		String URL=System.getProperty("url");
 		
 		System.out.println("URL is="+URL);
 		System.out.println("BROWSER is="+BROWSER);
