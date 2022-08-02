@@ -7,6 +7,7 @@ public class Sample1_Test {
 		  
 		  Reporter.log("Testing the application",true);
 		//afwdsdgfdjng
-	  }
+	///my changes  }
+	
 
 }
